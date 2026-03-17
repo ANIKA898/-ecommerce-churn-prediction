@@ -70,8 +70,11 @@ Customer churn is a major issue for ecommerce companies. This project helps iden
 
 
 ### Screenshots  
-![screenshots](churn prediction screenshots/dashboard.png)
 
+![Screenshot1](churn%20prediction%20screenshots/Screenshot_15-3-2026_185616_localhost.jpeg)  
+![Screenshot2](churn%20prediction%20screenshots/Screenshot_15-3-2026_185651_localhost.jpeg)  
+![Screenshot3](churn%20prediction%20screenshots/Screenshot_15-3-2026_185658_localhost.jpeg)  
+![Screenshot4](churn%20prediction%20screenshots/Screenshot_15-3-2026_18565_localhost.jpeg)  
 
 ### Author  
 ANIKA ATTRI
